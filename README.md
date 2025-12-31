@@ -1,5 +1,8 @@
 # BeyondChats – Full Stack Assignment
 
+## Repository
+### https://github.com/firdoshalam7786/beyondchats-frontend
+
 This repository contains my submission for the **BeyondChats – Full Stack Web Developer Intern** assignment.  
 The project demonstrates end-to-end implementation across scraping, AI-assisted content rewriting, API design, and a React-based frontend dashboard.
 
